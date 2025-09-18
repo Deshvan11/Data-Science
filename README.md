@@ -1,5 +1,7 @@
 # 📊 Data Science – Pandas Quick Reference
 
+ Pandas/README.md
+
 If you’re working with data in **Python**, **Pandas** is your best friend.  
 Here’s a handy cheat sheet to speed up your analysis 🚀  
 
